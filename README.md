@@ -45,5 +45,4 @@ int main() {
 	ish::shutdown_imgui();
 }
 ```
-How it looks:
 ![enter image description here](https://raw.githubusercontent.com/AlienTheBetrayer/ImGui-SFML-Helper-ISH-/main/example.png)
